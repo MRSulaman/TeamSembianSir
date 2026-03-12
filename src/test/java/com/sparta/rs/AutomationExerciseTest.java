@@ -35,5 +35,6 @@ public class AutomationExerciseTest {
                 .then()
                 .assertThat()
                 .statusCode(200);
+
     }
 }
